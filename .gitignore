@@ -1,0 +1,35 @@
+# Go binary executables
+/bin/
+/out/
+/build/
+
+# Dependency directories
+/vendor/
+
+# Go workspace settings
+*.iml
+.idea/
+
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go test result files
+*.test
+
+# IDE specific files
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Go modules
+go.sum
+
+# Log files
+*.log
